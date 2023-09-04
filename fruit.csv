@@ -1,3 +1,4 @@
+import pandas as pd
 data = {
     'Fruit': ['Apples', 'Bananas'],
     'Sales': [35, 21]
